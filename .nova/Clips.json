@@ -1,0 +1,10 @@
+{
+  "clips" : [
+    {
+      "content" : "const express = require('express');",
+      "name" : "require express",
+      "scope" : "editor",
+      "syntax" : "javascript"
+    }
+  ]
+}
